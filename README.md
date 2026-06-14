@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yasmine Benyoussef
+# Yasmine Ben Youssef
 
 ### Apprentie ingénieure logiciel @ESIEE
 
